@@ -1,0 +1,1 @@
+print('Este programa irá ler o salário de um funcionário\n  e em seguida retornar seu novo salário\n com 15% de aumento')
