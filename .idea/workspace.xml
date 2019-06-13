@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e0b8112-39e1-4687-88be-a5c1711fa7dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafio017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bnha3.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio016.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,29 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio017.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio018.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Desafio019.py">
+        <entry file="file://$PROJECT_DIR$/Desafio021.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="84">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -85,6 +66,8 @@
         <option value="$PROJECT_DIR$/Desafio017.py" />
         <option value="$PROJECT_DIR$/Desafio018.py" />
         <option value="$PROJECT_DIR$/Desafio019.py" />
+        <option value="$PROJECT_DIR$/Desafio020.py" />
+        <option value="$PROJECT_DIR$/Desafio021.py" />
       </list>
     </option>
   </component>
@@ -119,8 +102,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/NasaMeChama/NasaMeChama/Secret Project v2.0.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cells\PycharmProjects\CursoEmVideoPythonMundo1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Desafio019">
+  <component name="RunManager" selected="Python.Desafio021">
     <configuration name="Desafio016" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideoPythonMundo1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fase08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Desafio020" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideoPythonMundo1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +198,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fase08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Secret Project v2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Desafio021" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideoPythonMundo1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +215,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/NasaMeChama/NasaMeChama" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:/NasaMeChama/NasaMeChama/Secret Project v2.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio021" />
+        <item itemvalue="Python.Desafio020" />
         <item itemvalue="Python.Desafio019" />
         <item itemvalue="Python.Desafio018" />
         <item itemvalue="Python.Desafio016" />
-        <item itemvalue="Python.Fase08" />
-        <item itemvalue="Python.Secret Project v2.0" />
       </list>
     </recent_temporary>
   </component>
@@ -268,26 +256,33 @@
       <option name="project" value="LOCAL" />
       <updated>1560277133696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Desafios quase prontos">
+      <created>1560281530010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560281530010</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17656012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08643815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.61333334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925485" weight="0.6009852" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39901477" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007452" side_tool="true" weight="0.6009852" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -297,7 +292,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Fase08Iniciada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fase08Iniciada" />
+    <MESSAGE value="Desafios quase prontos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios quase prontos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Desafio005.py">
@@ -430,6 +426,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio020.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnha.mp3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnha3.mp3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio021.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
