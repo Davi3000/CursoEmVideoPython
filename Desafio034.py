@@ -6,8 +6,7 @@ sal = float(input('Qual o seu salário atual? R$'))
 if sal <= 1250:
     aumento = sal*15/100
     novoSal = sal + aumento
-    print('Seu novo salário é de R${:.2f}'.format(novoSal))
 else:
     aumento = sal*10/100
     novoSal = sal + aumento
-    print('Seu novo salário é de R${:.2f}'.format(novoSal))
+print('Seu novo salário é de R${:.2f}'.format(novoSal))
